@@ -1,4 +1,4 @@
-## Olá! Eu sou a Mateus Ferreira, desenvolvedor Front-End em desenvolvimento!
+## Olá! Eu sou a Mateus Ferreira, desenvolvedor Front-End em Formação!
 <div align="center">
   <a href="https://github.com/rafaballerini">
 </div>
